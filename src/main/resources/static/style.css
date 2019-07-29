@@ -1,0 +1,23 @@
+@charset "UTF-8";
+body{
+	background-color: grey;
+}
+h1{
+	text-align: center;
+	color: aqua;
+}
+
+div{
+	text-align: center;
+	font-size: 150%;
+	color: white;
+}
+
+#mpg{
+	width: 800px;
+}
+button{
+	padding: 12px 28px;
+	font-size: 22px;
+	border-radius: 50%;
+}
